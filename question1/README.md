@@ -8,6 +8,6 @@ where npts contain the number of values in array x, and max_ptr and min_ptr are 
 
 Provide and print out 3 examples to show that your function is working as intended.
 
-Compile Steps: 
+Compile Steps: gcc -o q1.out q1.c
 
 Output:
