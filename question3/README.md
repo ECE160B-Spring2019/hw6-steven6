@@ -4,6 +4,6 @@
 
 Also, add the option -f to fold upper and lower case together, so that case distinctions are not made during sorting; for example, a and A compare equal.
 
-Compile Steps:
+Compile Steps: gcc -o q3.out q3.c
 
 Output:
